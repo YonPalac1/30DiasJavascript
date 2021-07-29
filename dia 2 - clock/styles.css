@@ -1,0 +1,73 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+body {
+	background: rgb(0,95,98);
+	background: linear-gradient(0deg, rgba(0,95,98,1) 0%, rgba(95,165,179,1) 21%, rgba(25,99,129,1) 47%, rgba(25,121,181,1) 98%);
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	overflow: hidden;
+}
+.clock {
+	width: 300px;
+	height: 300px;
+	position: relative;
+	border: 1px solid #ccc;
+	border-radius: 50%;
+	background: rgba(255,255,255, .1);
+	padding: 2rem 2rem 2rem 2rem;
+}
+.clock-face {
+     position: relative;
+     width: 100%;
+     height: 100%;
+     transform: translateY(-3px); 
+}
+.hand {
+	width: 50%;
+	height: 3px;
+	background: #ccc;
+	position: absolute;
+	top: 50%;
+	transform-origin: 100%;
+	transform: rotate(90deg);
+	transition-timing-function: cubic-bezier(0.42, 0, 0.69, 1.79);
+}
+.num {
+	width: 50%;
+	height: 3px;
+	top: 50%;
+	position: absolute;
+	transform-origin: 100%;
+}
+div.num.num12 {
+	transform: rotate(90deg);
+	margin-left: 6px;
+}
+div.num.num3 {
+	transform: rotate(180deg);
+	margin-top: 6px;
+}
+div.num.num6 {
+	transform: rotate(270deg);
+	margin-left: -6px;
+}
+div.num.num9 {
+	transform: rotate(360deg);
+	margin-top:-6px;
+}
+div.num span {
+	color: #fff;
+	position: absolute;
+	font-size: 20px;
+}
+div.num.num12 span {
+	transform: rotate(-90deg);	
+}
+div.num.num6 span {
+	transform: rotate(90deg);
+}
