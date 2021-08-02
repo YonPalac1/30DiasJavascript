@@ -5,3 +5,4 @@
 - <a href="https://codepen.io/yonpalac1/pen/rNmvNZV">DIA 3 | Actualizar variables CSS con JS</a>
 - DIA 4 | Estudio de teoria
 - <a href="https://codepen.io/yonpalac1/pen/bGWKvVR">DIA 5 | Galeria Flex</a>
+- <a href="https://codepen.io/yonpalac1/pen/KKmeONY">DIA 6 | Ajax type Ahead</a>
