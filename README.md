@@ -6,3 +6,5 @@
 - DIA 4 | Estudio de teoria
 - <a href="https://codepen.io/yonpalac1/pen/bGWKvVR">DIA 5 | Galeria Flex</a>
 - <a href="https://codepen.io/yonpalac1/pen/KKmeONY">DIA 6 | Ajax type Ahead</a>
+- DIA 7 | Estudio de teoria
+- <a href="https://codepen.io/yonpalac1/pen/rNwLGgd">DIA 8 | HTML5 Canvas</a>
