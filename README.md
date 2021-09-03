@@ -8,3 +8,5 @@
 - <a href="https://codepen.io/yonpalac1/pen/KKmeONY">DIA 6 | Ajax type Ahead</a>
 - DIA 7 | Estudio de teoria
 - <a href="https://codepen.io/yonpalac1/pen/rNwLGgd">DIA 8 | HTML5 Canvas</a>
+- DIA 9 | Estudio de teoria
+- <a href="https://codepen.io/yonpalac1/pen/QWgEPxP">DIA 10 | Estudio de teoria</a>
